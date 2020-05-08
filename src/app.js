@@ -1,6 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import './styles/style.scss'
-import LoginPage from './components/LoginPage'
+// import './styles/style.scss'
+// import 'normalize.css/normalize.css'
+// import Apiroute from './routes/Apirouter'
+import Register from './components/Register'
 
-ReactDOM.render(<LoginPage /> , document.getElementById('app'))
+
+ReactDOM.render(<Register /> , document.getElementById('app'))
+

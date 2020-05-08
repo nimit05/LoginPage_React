@@ -21,3 +21,11 @@
    } 
 
 }
+
+@media(max-width : 20rem){
+    .title{
+        text-align: center;
+        font-size: 0.9rem;
+        margin-bottom: 1rem;
+    }
+}

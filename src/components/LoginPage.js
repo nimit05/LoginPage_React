@@ -6,7 +6,7 @@ import NewUser from './NewUser'
 export default class LoginPage extends React.Component{
     render(){
         return (
-            <div>
+            <div className = "loginPage">
             <div className = "container">
             <div className= "container2">
             <div className = "subcont">
